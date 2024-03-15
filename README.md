@@ -22,4 +22,10 @@ To use the sentiment analysis model:
 4. Run the code to train the model.
 5. After training, you can use the trained model to predict sentiment on new tweet data.
 
-## File Structure
+## Dependencies
+The model code requires the following dependencies:
+- Python (>=3.6)
+- scikit-learn
+- pandas
+- numpy
+- nltk
